@@ -2,7 +2,7 @@
 
 > **FVG-PT: Adaptive Foreground View-Guided Prompt Tuning for Vision-Language Models** <br>
 > Haoyang Li<sup>1,2</sup>, Liang Wang<sup>1,2</sup>, Siyu Zhou<sup>1</sup>, Jiacheng Sun<sup>2</sup>, Jing Jiang<sup>1</sup>, Chao Wang<sup>2</sup>, Guodong Long<sup>1</sup> and Yan Peng<sup>2</sup>. <br>
-> _<sup>1</sup>University of Technology Sydney &emsp; <sup>2</sup>Shanghai University_ <br>
+> _<sup>1</sup>Australian Artificial Intelligence Institute &emsp; <sup>2</sup>Shanghai University_ <br>
 
 <hr />
 
