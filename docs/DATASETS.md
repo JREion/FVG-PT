@@ -3,7 +3,7 @@
 ## Dataset Preparation
 1. Download all 11 prompt-tuning datasets **with foreground views** on [[🤗HuggingFace](https://huggingface.co/datasets/JREion/Prompt_Tuning_Datasets_with_Foreground)]. <br>
   (This dataset is fully compatible with other prompt tuning methods that do not use foreground views!) <br>
-  If you need a separate mask directory that **_does not contain raw images_**, please download it from the following links: [Google Drive] [BaiduYun]
+  If you need a separate mask directory that **_does not contain raw images_**, please download it from one of the following links: [Google Drive] or [BaiduYun]
 3. We suggest putting all datasets under the same folder (say `$DATA`) to ease management and following the instructions below to organize datasets to avoid modifying the source code. <br>
   The file structure should be organized as:
 
@@ -28,7 +28,6 @@
           |   |   |   |   |-- ...
           |   |   |–– classnames.txt
           |   |   |–– command.txt
-          |   |   |-- preprocessed.pkl
           |   |–– mask/
 
     - **Caltech101**:
