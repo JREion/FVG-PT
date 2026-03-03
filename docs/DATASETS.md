@@ -1,6 +1,7 @@
-# How to install datasets
+
 
 ## Dataset Preparation
+
 1. Download all 11 prompt-tuning datasets **with foreground views** on [[🤗HuggingFace](https://huggingface.co/datasets/JREion/Prompt_Tuning_Datasets_with_Foreground)]. <br>
   (This dataset is fully compatible with other prompt tuning methods that do not use foreground views!) <br>
   If you need a separate mask directory that **_does not contain raw images_**, please download it from one of the following links: [Google Drive] or [BaiduYun]
