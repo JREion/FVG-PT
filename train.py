@@ -140,7 +140,12 @@ def extend_cfg(cfg):
     cfg.DATASET.SUBSAMPLE_CLASSES = "all"  # all, base or new
     cfg.TEST.NO_TEST = False
 
-    # [AMPT]
+    ''' === [SPLE] NECESSARY CONFIGS === '''
+    cfg.SPLE = CN()
+    cfg.SPLE.KD_INFER = "CoOpInfer"
+
+    ''' === [AMPT] CONFIGS === '''
+    cfg.TRAINER.AMPT = CN()
     cfg.TRAINER.AMPT.ENABLED = True
     cfg.TRAINER.AMPT.LAMBDA_DCA = 0.5
     cfg.TRAINER.AMPT.DCA_RANK = 64

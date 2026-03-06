@@ -89,7 +89,7 @@ def get_dataset_config(target_dataset):
         dataset_configx = "configs/datasets/eurosat.yaml"
 
     elif target_dataset == "flowers102":
-        rootx = "DATA/lowers-102"
+        rootx = "DATA/flowers-102"
         dataset_configx = "configs/datasets/oxford_flowers.yaml"
 
     elif target_dataset == "oxford_pets":
