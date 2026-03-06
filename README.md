@@ -48,4 +48,12 @@ Haoyang Li, Liang Wang, Chao Wang, Siyu Zhou, Jing Jiang, Yan Peng and Guodong L
      ```
 
 ### Code Statement
-We are still working on organizing the code repository. We promise to release our code implementation in the future.
+We are still working on organizing the code repository. 
+
+   ✅ One-key fine-tuning pipeline for backbone models (`run_tuning.py`)
+
+   ✅ FVG-PT foreground datasets and corresponding dassl DataLoader
+
+   📅 (**To-do**) FVG-PT Trainers
+
+We promise to release our full code implementation in the future.
