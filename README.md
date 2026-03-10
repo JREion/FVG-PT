@@ -4,6 +4,8 @@
 > Haoyang Li<sup>1,2</sup>, Liang Wang<sup>1,2</sup>, Siyu Zhou<sup>1</sup>, Jiacheng Sun<sup>2</sup>, Jing Jiang<sup>1</sup>, Chao Wang<sup>2</sup>, Guodong Long<sup>1</sup> and Yan Peng<sup>2</sup>. <br>
 > _<sup>1</sup>Australian Artificial Intelligence Institute &emsp; <sup>2</sup>Shanghai University_     <br>
 
+Arxiv Link: [https://arxiv.org/abs/2603.08708](https://arxiv.org/abs/2603.08708)
+
 <hr />
 
 ### 📜 Abstract
