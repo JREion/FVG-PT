@@ -6,7 +6,7 @@
 
 Arxiv Link: [https://arxiv.org/abs/2603.08708](https://arxiv.org/abs/2603.08708)
 
-Prompt tuning datasets with foreground view： [🤗HuggingFace](https://huggingface.co/datasets/JREion/Prompt_Tuning_Datasets_with_Foreground)
+Datasets with Foreground View： [🤗 HuggingFace](https://huggingface.co/datasets/JREion/Prompt_Tuning_Datasets_with_Foreground)
 
 <hr />
 
