@@ -6,7 +6,7 @@
 
 Arxiv Link: [https://arxiv.org/abs/2603.08708](https://arxiv.org/abs/2603.08708)
 
-Datasets with Foreground View： [🤗 HuggingFace](https://huggingface.co/datasets/JREion/Prompt_Tuning_Datasets_with_Foreground)
+Datasets with Foreground View： [🤗 HuggingFace](https://huggingface.co/datasets/JREion/Prompt_Tuning_Datasets_with_Foreground) &emsp; [☁ BaiduYun](https://pan.baidu.com/s/1vDjl5I25WhdFdEPFTLOO3g?pwd=chen)
 
 <hr />
 
@@ -61,3 +61,23 @@ We are still working on organizing the code repository.
    📅 (**To-do**) FVG-PT Trainers
 
 We promise to release our full code implementation in the future.
+
+### ⭐ Citation
+If you find our paper or repo helpful for your research, please consider citing the following paper and giving this repo a star. Thank you!
+
+```
+@article{li2026fvgpt,
+  title={FVG-PT: Adaptive Foreground View-Guided Prompt Tuning for Vision-Language Models},
+  author={Li, Haoyang and Wang, Liang and Zhou, Siyu and Sun, Jiacheng and Jiang, Jing and Wang, Chao and Long, Guodong and Peng, Yan},
+  journal={arXiv preprint arXiv:2603.08708},
+  year={2026}
+}
+
+@inproceedings{li2025dpc,
+  title={DPC: Dual-Prompt Collaboration for Tuning Vision-Language Models},
+  author={Li, Haoyang and Wang, Liang and Wang, Chao and Jiang, Jing and Peng, Yan and Long, Guodong},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={25623--25632},
+  year={2025}
+}
+```
