@@ -6,8 +6,7 @@
 
 Arxiv Link: [https://arxiv.org/abs/2603.08708](https://arxiv.org/abs/2603.08708)
 
-Datasets with Foreground View： [🤗 HuggingFace](https://huggingface.co/datasets/JREion/Prompt_Tuning_Datasets_with_Foreground) &emsp; [☁ BaiduYun](https://pan.baidu.com/s/1vDjl5I25WhdFdEPFTLOO3g?pwd=chen)
-
+Datasets with Foreground View： [🤗 HuggingFace](https://huggingface.co/datasets/JREion/Prompt_Tuning_Datasets_with_Foreground)
 <hr />
 
 ### 📜 Abstract
